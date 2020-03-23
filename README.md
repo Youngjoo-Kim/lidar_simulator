@@ -9,3 +9,12 @@ Affiliation: The Biped Lab, the University of Michigan**
 
 This package has been tested under MATLAB2019a and Ubuntu 16.04.
 
+## Required packages 
+Please download _matlab_utils_ package from [here](https://github.com/UMich-BipedLab/matlab_utils).  
+Please download _LiDAR_intrinsic_calibration_ package from [here](https://github.com/UMich-BipedLab/LiDAR_intrinsic_calibration).
+
+## Usage
+Please run _main_solid_state_lidar.m_ for a solid-state LiDAR and main_spinning_lidar.m_ for a spinning LiDAR.
+More dtail will be added soon.
+
+
